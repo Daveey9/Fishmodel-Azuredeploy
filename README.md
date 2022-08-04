@@ -10,3 +10,4 @@ I have built a ML model for the Fish market dataset.
 A model.pk file was used to save the model.
 
 # Deployment
+The Microsoft Azure cloud platform has been used to host my application online.
